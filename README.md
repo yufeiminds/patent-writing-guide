@@ -12,12 +12,12 @@
 
 | 事务         | 阶段               | 时间         |
 | ------------ | ------------------ | ------------ |
-| 专利创作期   | 专利检索与分析     | 1-4 周       |
+| 专利创作期    | 专利检索与分析     | 1-4 周       |
 |              | 专利写作           | 1-4 周       |
 |              | 代理撰写⽂书       | 1-4 周       |
 |              | 审查和修改专利⽂书 | 0-4 周       |
 | ⼩计         |                    | 3-16 周      |
-| 国知局审查期 | 申请和受理         | 1 周内       |
+| 国知局审查期  | 申请和受理         | 1 周内       |
 |              | 初审+公开          | 3-18 个月    |
 |              | 实质审查           | 6-18 个⽉    |
 |              | 专利授权           | 2 个⽉       |
@@ -56,7 +56,7 @@ https://pss-system.cponline.cnipa.gov.cn/conventionalSearch
 
 ### 上海知产服务平台
 
-[https://www.shanghaiip.cn/search/#/home](https://www.shanghaiip.cn/search/%23/home)
+[https://www.shanghaiip.cn/search/#/home](https://www.shanghaiip.cn/search/#/home)
 
 免登录
 
